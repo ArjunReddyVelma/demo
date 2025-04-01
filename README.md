@@ -1,3 +1,3 @@
 # demo
 This is my first Git Repository
-Aythor - Arjun Reddy
+Author - Arjun Reddy
